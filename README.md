@@ -19,7 +19,7 @@ It was designed to be:
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/GeekKwame/veefyed-data-scraper.git
+    git clone https://github.com/GeekKwame/qudo-beauty-scraper.git
     cd veefyed-data-scraper
     ```
 
