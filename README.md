@@ -1,7 +1,5 @@
 # Veefyed Qudo Beauty Scraper
 
-**Project Name Proposal**: Veefyed Qudo Beauty Scraper  
-**Repository Name Proposal**: `veefyed-qudobeauty-scraper`
 
 ## Overview
 
