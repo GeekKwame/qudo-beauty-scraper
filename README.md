@@ -1,7 +1,5 @@
 # Veefyed Qudo Beauty Scraper
 
-**Project Name Proposal**: Veefyed Qudo Beauty Scraper  
-**Repository Name Proposal**: `veefyed-qudobeauty-scraper`
 
 ## Overview
 
@@ -21,8 +19,8 @@ It was designed to be:
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/YOUR_USERNAME/veefyed-data-scraper.git
-    cd veefyed-data-scraper
+    git clone https://github.com/GeekKwame/qudo-beauty-scraper.git
+    cd qudo-beauty-scraper
     ```
 
 2.  Install dependencies:
