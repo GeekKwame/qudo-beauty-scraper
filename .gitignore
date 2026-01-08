@@ -1,0 +1,19 @@
+# Environment Variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.manifest
+*.spec
+
+# VS Code
+.vscode/
+
+# System
+.DS_Store
+Thumbs.db
+
+# If you want to exclude data files, uncomment the following:
+# *.csv
